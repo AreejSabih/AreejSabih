@@ -1,83 +1,30 @@
 # Hi, I'm Areej <3
 
-### Electrical Engineering Undergraduate @ NUST | Machine Learning • AI • Computer Vision
+**Electrical Engineering Undergraduate @ NUST**
+*Machine Learning • AI • Computer Vision • Embedded Systems*
 
-I'm an Electrical Engineering undergraduate at the **National University of Sciences and Technology (NUST)** with a growing interest in **Machine Learning, Computer Vision, Deep Learning, and Intelligent Systems**.
+I'm an Electrical Engineering student interested in building intelligent systems and applying **AI/ML to engineering problems**.
 
-I'm currently building my foundation through hands-on ML projects and exploring how AI can be applied to engineering, sensing, embedded systems, and real-world problems.
+### 🔬 Interests
 
-## 🔬 Research Interests
+Machine Learning · Deep Learning · Computer Vision · Embedded AI · Signal Processing
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Embedded AI
-* Signal Processing
-* Intelligent Systems
-* AI for Engineering Applications
+### 🛠️ Tech
 
-## 🛠️ Technical Skills
+Python · C/C++ · MATLAB · TensorFlow · Scikit-learn · Pandas · NumPy · ESP32 · Flutter
 
-**Languages:** Python, C/C++, MATLAB
+### 🚀 Featured Projects
 
-**Machine Learning:** Scikit-learn, TensorFlow/Keras, CNNs, Classification, Regression, NLP
+* 🧠 **Facial Emotion Recognition** — CNN-based emotion classification
+* 📧 **Email Spam Classification** — NLP + multiple ML models
+* 🔢 **MNIST Digit Recognition** — handwritten digit classification
+* 🏠 **California Housing Prediction** — regression & feature analysis
+* 🤖 **ESP32 Study Buddy** — embedded systems + mobile app
 
-**Data & Visualization:** NumPy, Pandas, Matplotlib
+### 📚 Currently
 
-**Engineering & Development:** MATLAB/Simulink, Proteus, ESP32, Git/GitHub
+Exploring **AI research, Computer Vision, Deep Learning & Embedded AI**.
 
-## 🚀 Featured Projects
+### 📫 Connect
 
-### 🧠 Facial Emotion Recognition using CNN
-
-Deep learning system for classifying seven human facial emotions using the FER-2013 dataset.
-
-**Python • TensorFlow/Keras • CNN • Computer Vision**
-
-### 📧 Email Spam Classification
-
-Machine learning pipeline for spam detection using TF-IDF and multiple supervised learning algorithms.
-
-**Python • Scikit-learn • NLP • TF-IDF**
-
-### 🔢 MNIST Digit Recognition
-
-Machine learning model for handwritten digit classification using the MNIST dataset.
-
-**Python • Scikit-learn • Classification**
-
-### 🏠 California Housing Price Prediction
-
-Regression-based analysis and prediction of California housing prices using demographic and geographic features.
-
-**Python • Pandas • Scikit-learn • Regression**
-
-### 🤖 ESP32 Study Buddy
-
-An ongoing embedded-AI project exploring the integration of an ESP32-based study assistant with a mobile application.
-
-**ESP32 • C/C++ • Flutter • Embedded Systems**
-
-## 📚 Currently Exploring
-
-* Research methodologies in Machine Learning
-* Deep Learning and Computer Vision
-* AI applications in Electrical Engineering
-* Embedded and Edge AI
-* Research-oriented software development
-
-## 🎯 Research Goals
-
-I'm actively looking for **undergraduate research opportunities, research internships, and collaborations** in AI/ML, computer vision, embedded AI, signal processing, and intelligent systems.
-
-## 📫 Connect With Me
-
-[LinkedIn](linkedIn.com/areejsabih) • [GitHub](https://github.com/AreejSabih)
-
----
-
-### Beyond the Code ☕🌸
-
-I like pink, chai, creative design, and occasionally convincing myself that my projects will work on the first try.
-
-*Currently turning electrical engineering problems into excuses to use machine learning.*
+[LinkedIn](linkedIn.com/areejsabih) · [GitHub](https://github.com/AreejSabih)
