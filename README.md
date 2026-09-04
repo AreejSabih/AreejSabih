@@ -1,4 +1,4 @@
-# Hi, I'm Areej 👋
+# Hi, I'm Areej <3
 
 ### Electrical Engineering Undergraduate @ NUST | Machine Learning • AI • Computer Vision
 
@@ -72,7 +72,7 @@ I'm actively looking for **undergraduate research opportunities, research intern
 
 ## 📫 Connect With Me
 
-[LinkedIn]linkedIn.com/areejsabih • [GitHub](https://github.com/AreejSabih)
+[LinkedIn](linkedIn.com/areejsabih) • [GitHub](https://github.com/AreejSabih)
 
 ---
 
